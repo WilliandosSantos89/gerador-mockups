@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Mockups IA",
+  "description": "Um aplicativo da web que gera mockups de produtos aplicando uma imagem enviada pelo usuário em vários contextos, como artigos de papelaria, fachadas e camisetas, usando a API Gemini.",
+  "requestFramePermissions": []
+}
